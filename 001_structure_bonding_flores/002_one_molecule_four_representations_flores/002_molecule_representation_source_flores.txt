@@ -1,0 +1,18 @@
+Sources:
+
+https://pubchem.ncbi.nlm.nih.gov/compound/Propane
+https://pubchem.ncbi.nlm.nih.gov/compound/Ethanol
+https://pubchem.ncbi.nlm.nih.gov/compound/Acetone
+https://pubchem.ncbi.nlm.nih.gov/compound/Acetic-acid
+https://pubchem.ncbi.nlm.nih.gov/compound/Ethyl-acetate
+https://pubchem.ncbi.nlm.nih.gov/compound/Cyclohexane
+https://pubchem.ncbi.nlm.nih.gov/compound/Cyclohexanone
+https://pubchem.ncbi.nlm.nih.gov/compound/Acetaminophen
+https://pubchem.ncbi.nlm.nih.gov/compound/Acetylsalicylic-acid
+https://pubchem.ncbi.nlm.nih.gov/compound/Caffeine
+
+Lewis Structure Tool
+https://web.chemdoodle.com/demos/lewis-dot-structures
+
+Ketcher
+https://lifescience.opensource.epam.com/KetcherDemoSA/index
